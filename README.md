@@ -1,4 +1,4 @@
-# spring_boot_basics
+# DOG DATA API 
 
 This repository is for creating, reading, updating, and deleting Dog objects.
 
